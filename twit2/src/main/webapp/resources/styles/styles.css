@@ -1,0 +1,14 @@
+*{
+	font-family: arial;
+	font-size: 9pt;
+}
+body{
+	background: #666;
+	alignment: center;
+}
+article{
+	padding: 10px;
+	background: white;
+	border:1px solid black;
+	border-radius: 5px;
+}
